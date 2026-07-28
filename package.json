@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.5.1",
     "mocha": "^11.7.6",
     "mongodb": "^3.2.2",
-    "mongoose": "^6.13.9",
+    "mongoose": "^6.13.10",
     "morgan": "^1.9.1",
     "multer": "^2.2.0",
     "nodemon": "^1.18.10"
